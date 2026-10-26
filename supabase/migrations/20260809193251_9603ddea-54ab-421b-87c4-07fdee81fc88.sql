@@ -1,0 +1,1 @@
+ALTER TABLE public.wa_schedule_overrides ADD COLUMN IF NOT EXISTS tanggal_libur date[] NOT NULL DEFAULT '{}';

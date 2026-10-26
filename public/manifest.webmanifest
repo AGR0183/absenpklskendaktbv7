@@ -1,0 +1,12 @@
+{
+  "name": "SIAP PKL SMKN 2 Kotabaru",
+  "short_name": "SIAP PKL",
+  "description": "SIAP PKL: Sistem Informasi Absensi dan Pemantauan Praktik Kerja Lapangan SMKN 2 Kotabaru dengan foto, timestamp & GPS.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#c0392b",
+  "icons": [
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN IF NOT EXISTS pin_ortu text NOT NULL DEFAULT '1122';

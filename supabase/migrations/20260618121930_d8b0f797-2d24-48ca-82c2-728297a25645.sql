@@ -1,0 +1,1 @@
+ALTER TABLE public.wa_schedule_settings ADD COLUMN IF NOT EXISTS jeda_menit numeric NOT NULL DEFAULT 0;
